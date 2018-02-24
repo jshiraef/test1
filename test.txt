@@ -1,1 +1,3 @@
 this is a simple text test file
+
+We are hoping to continue using Git
